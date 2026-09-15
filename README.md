@@ -1,6 +1,6 @@
 # Sector Zero - Sistema Integral de Telemetría y Gestión de Carreras
 
-[![Demostración Técnica de Sector Zero](https://img.youtube.com/vi/T-SSH2jLK5o/maxresdefault.jpg)](https://youtu.be/T-SSH2jLK5o)
+[![Demostración Técnica de Sector Zero](https://img.youtube.com/vi/T-SSH2jLK5o/hqdefault.jpg)](https://youtu.be/T-SSH2jLK5o)
 
 *Haz clic en la imagen superior para ver el vídeo de demostración técnica del proyecto.*
 
